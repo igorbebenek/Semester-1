@@ -1,0 +1,9 @@
+Program rysuje choinkę.
+
+   *
+  ***
+ ****
+******
+
+Można tylko raz użyć '*' . Z klawiatury wprowadzamy jej wysokość.
+For, if.

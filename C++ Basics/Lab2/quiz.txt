@@ -1,0 +1,9 @@
+Użytkownik wybiera operację arytmetyczną quizu  +,-,*,/,%
+
+Dostaje 10 wylosowanych pytań. (liczby z przedziału 1...15)
+Odpowiada na a) b) c) wpisując a,b lub c. Odpowiedź losowo pojawia się w odpowiedziach. Inne wyniki są zbliżone do prawidłowej o losową małą wartość.
+Za każdą dobrą odpowiedź dostaje 1 punkt.
+Po quzie otrzymuje wynik.
+
+Wykorzystaj
+rand, srand, cin, cout, for, char, switch
